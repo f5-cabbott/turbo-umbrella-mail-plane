@@ -7,7 +7,7 @@ on:
     types: [opened, closed, synchronize]
 permissions: read-all
 jobs:
-  El Jefe-cla:
+  el-jefe-cla:
     name: El Jefe CLA
     runs-on: ubuntu-24.04
     permissions:
