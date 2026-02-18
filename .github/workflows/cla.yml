@@ -24,7 +24,7 @@ jobs:
           # Custom CLA messages.
           custom-notsigned-prcomment: '🎉 Thank you for your contribution! It appears you have not yet signed the [El Jefe Contributor License Agreement (CLA)](https://github.com/plethoraofpinatas/turbo-umbrella/blob/main/el-jefe-cla.md), which is required for your changes to be incorporated into an El Jefe Open Source Software (OSS) project. Please kindly read the [El Jefe CLA](https://github.com/plethoraofpinatas/turbo-umbrella/blob/main/el-jefe-cla.md) and reply on a new comment with the following text to agree:'
           custom-pr-sign-comment: 'I have hereby read the El Jefe CLA and agree to its terms'
-          custom-allsigned-prcomment: '✅ All required contributors have signed the El Jefe CLA for this PR. Thank you!'
+          custom-allsigned-prcomment: '🔥🔥🔥 All required contributors have signed the El Jefe CLA for this PR. Thank you! 🔥🔥🔥'
           # Remote repository storing CLA signatures.
           #remote-organization-name: El Jefe
           #remote-repository-name: El Jefe-cla-data
